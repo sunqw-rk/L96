@@ -5,7 +5,7 @@ Sun, Q., Miyoshi, T., and Richard, S.: Control simulation experiments of extreme
 
 
 
-   1. gen_natural_run-Copy1.ipynb
+   1. gen_natural_run.ipynb
    2. generate_obs.ipynb
    3. ana_ini.ipynb
   4. gen_ana_En_rk4_new_extreme_def-Copy9.ipynb
